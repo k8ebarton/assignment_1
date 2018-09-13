@@ -1,3 +1,24 @@
 body {
-	background-color: #708090 
+	background-color: #DCDCDC
+
+}
+h1 {
+	color: white;
+	font-family: Courier;
+	font-style: italic;
+}
+
+h2 {
+	color: #FFFAFA;
+	text-align: center;
+}
+
+.red-rectangle {
+	background-color: #FCD9D9;
+	width: 500px;
+	height: 500px;
+}
+
+.red-rectangle p {
+	text-align: center;
 }
