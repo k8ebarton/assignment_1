@@ -1,0 +1,23 @@
+body {
+	background-color: #DCDCDC;
+}
+.blue-rectangle { 
+	background-color: #242938;
+	width: 500px;
+	height: 430px;
+	padding: 30px 30px 30px 30px;
+	border-style: dotted;
+	border-color: white;
+ }
+ .notable {
+ 	font-family: 'Notable', sans-serif;
+ 	font-size: 12pt;
+ 	color: white;
+ 	text-align: center;
+ }
+ .blue-rectangle p {
+ 	color: white;
+ 	text-align: center;
+ 	font-family: 'Noto Serif KR', sans-serif;
+ }
+ 

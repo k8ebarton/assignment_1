@@ -2,7 +2,7 @@ body {
 	background-color: #DCDCDC;
 }
 .green-rectangle {
-	background-color: #408075;
+	background-color: #687F91;
 	width: 500px;
 	height: 475px;
 	padding: 30px 50px 30px 50px;
@@ -13,6 +13,7 @@ body {
 .green-rectangle p {
 	text-align: center;
 	color: white;
+	font-family: 'Noto Serif KR', sans-serif;
 }
 .body-line-2 p {
 	font-family: 'Notable', sans-serif;
