@@ -1,4 +1,20 @@
 body { 
-	background-color: #408075;
+	background-color: #DCDCDC;
 }
-h1 {  }
+.green-rectangle {
+	background-color: #408075;
+	width: 500px;
+	height: 475px;
+	padding: 30px 50px 30px 50px;
+	border-style: dotted;
+	border-color: white;
+}
+
+.green-rectangle p {
+	text-align: center;
+	color: white;
+}
+.body-line-2 p {
+	font-family: 'Notable', sans-serif;
+	font-size: 32pt;
+}
