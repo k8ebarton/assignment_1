@@ -4,21 +4,29 @@ body {
 }
 h1 {
 	color: white;
-	font-family: Courier;
-	font-style: italic;
+	font-family: 'Notable', sans-serif;
+	font-size: 40pt;
 }
 
 h2 {
 	color: #FFFAFA;
-	text-align: center;
+	font-family: 'Noto Serif KR', sans-serif;
 }
 
-.red-rectangle {
-	background-color: #FCD9D9;
+p {
+	font-family: 'Noto Serif KR', sans-serif;
+}
+
+.blue-rectangle {
+	background-color: #406B80;
 	width: 500px;
-	height: 500px;
+	height: 300px;
+	padding: 50px 50px 50px 50px;
+	border-style: dotted;
+	border-color: white;
 }
 
-.red-rectangle p {
+.blue-rectangle p {
 	text-align: center;
+	color: white;
 }
